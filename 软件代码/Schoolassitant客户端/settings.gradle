@@ -1,3 +1,0 @@
-include ':easeui'
-include ':app'
-rootProject.name = "Schooassitant"
